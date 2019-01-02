@@ -1,0 +1,38 @@
+.trickOne{
+    display:none;
+}
+
+.trickTwo{
+      display:none;
+}
+.trickThree{
+    display:none;
+}
+
+img{
+    height:200px;
+    width:200px;
+    background:#c9f6fd;
+}
+
+body{
+    background:#fdc9e9;
+    text-align:center;
+}
+
+h1{
+    background:#d1c9fd;
+}
+
+button{
+    background:#fdc9e9;
+}
+
+p{
+    display:none;
+    background:#e9ee95;
+}
+
+.map{
+    display:none;
+}
